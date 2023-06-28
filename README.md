@@ -28,7 +28,7 @@
 
 </br>
 
-<h3 align="left"> Connect me with via: </h3>
+<h3 align="left"> Connect with me via: </h3>
 <p align="left">
 <a href="mailto:palacmpe@gmail.com" target="blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="gmail" width="80" height="40"/> </a>
 <a href="https://www.linkedin.com/in/palasafak/">
