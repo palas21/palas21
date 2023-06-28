@@ -1,6 +1,9 @@
 <h1 align="center"><b>Hi , I'm Şafak Özkan Pala </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=8A3CBD&center=true&vCenter=true&width=1000&lines=Computer+Engineering+Student;Currently+Working+on+Autonomous+Driving;Interested+In+Competitive+Programming" alt="palas21" /></a>
+
+</br></br>
+
 <a href="https://github.com/palas21/">
 <img src="https://github-readme-stats.vercel.app/api?username=palas21&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=palas21&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&" width="375"  alt="palas21"/>
