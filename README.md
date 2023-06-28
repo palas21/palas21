@@ -27,6 +27,7 @@
 </p>
 
 </br>
+<p> You can reach my leetcode profile <a href="https://www.leetcode.com/thepla/"> <b> here </b> </a> </p>
 
 <h3 align="left"> Connect with me via: </h3>
 <p align="left">
